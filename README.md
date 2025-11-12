@@ -9,6 +9,18 @@ I'm a Master of Engineering student at ULB, specializing in AI and complex optim
 
 ---
 
+## 🚀 My Key Projects
+
+* **[Complex Scheduling Optimization](https://github.com/milenapaques/Complex-Scheduling-Optimization)**
+    * Engineered and implemented Genetic Algorithms and Simulated Annealing from scratch to solve a complex round-robin tournament scheduling problem.
+
+* **[Predictive Maintenance Model](https://github.com/milenapaques/Predictive-Maintenance-SVM)**
+    * Developed and trained an SVM model to classify and detect faults in industrial motors. This involved engineering and processing features from real-world sensor data.
+
+* **[Medical Image Processing & Analysis](https://github.com/milenapaques/Medical-Image-Analysis)**
+    * Implemented computer vision techniques like image filtering and segmentation. Specialized in medical image analysis, working with DICOM and NIFTI standards for tasks like image registration.
+–––
+
 ### 🛠️ My Technical Toolkit
 
 | AI & Data Science | Programming & Databases | Tools & Platforms |
