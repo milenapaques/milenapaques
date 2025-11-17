@@ -1,6 +1,6 @@
 ### Hi there, I'm Milena 👋
 
-I'm a Master of Engineering student at ULB, specializing in AI and complex optimization. My work focuses on building robust algorithms from the ground up and applying them to challenging problems in fields like predictive maintenance and medical imaging.
+Master of Engineering student (Computer Science) with highest honors. Strong background in machine learning, optimization algorithms, mathematical modeling, and signal/image processing.
 
 - 🎓 **Currently:** Pursuing my M.Eng at Ecole polytechnique de Bruxelles.
 - 💡 **Interests:** Deep Learning, Meta-heuristics, Medical Image Analysis (DICOM/NIFTI), and low-level systems programming.
@@ -19,7 +19,8 @@ I'm a Master of Engineering student at ULB, specializing in AI and complex optim
 
 * **[Medical Image Processing & Analysis](https://github.com/milenapaques/Medical-Image-Analysis)**
     * Implemented computer vision techniques like image filtering and segmentation. Specialized in medical image analysis, working with DICOM and NIFTI standards for tasks like image registration.
-–––
+
+---
 
 ### 🛠️ My Technical Toolkit
 
